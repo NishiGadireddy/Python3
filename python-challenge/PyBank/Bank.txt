@@ -1,0 +1,6 @@
+Financial Analysis
+Months:{len(Months)}
+Total Profits:$ {TotalDollars}
+Average Monthly Proft: ${round(AvgMonth(MonthbyMonth),2)}
+Largest Profit Month: {GainMonth}; Profit: ${BigGain}
+Largest Loss Month: {LossMonth}; Proft: ${BigLoss}
